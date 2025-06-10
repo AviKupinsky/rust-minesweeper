@@ -1,0 +1,17 @@
+[package]
+name = "rust_project"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8"
+egui = "0.31.1"
+eframe = "0.31.1"
+rand_distr = "0.4"
+varisat = "0.2"
+itertools = "0.12"
+macroquad = { version = "0.4", features = ["audio"] }
+
+
+[lib]
+path = "src/lib.rs"
