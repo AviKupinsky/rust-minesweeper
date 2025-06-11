@@ -75,6 +75,11 @@ Your goal is to uncover all cells that do **not** contain mines, using logic and
    ```
 
 
+4. **Run without installing Rust:**  
+You can also download the ZIP version of the project and simply double-click on minesweeper.exe (found in the root folder after unzipping).
+The game should launch without needing to install any development tools
+
+
 
 
 Enjoy playing and hacking on Minesweeper in Rust!
